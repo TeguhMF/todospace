@@ -63,6 +63,8 @@ Sebelum menjalankan proyek ini di lingkungan lokal, pastikan server Anda memenuh
     http://localhost/todospace/
     ```
 
+---
+
 ## Keamanan & Pengodean
 
 *   **Pemisahan Kredensial**: Seluruh API Key dan token eksternal wajib disimpan di dalam berkas `.env`. Penggunaan metode *hardcoded* pada kode sumber sangat dilarang untuk mencegah kebocoran data.
@@ -71,6 +73,7 @@ Sebelum menjalankan proyek ini di lingkungan lokal, pastikan server Anda memenuh
 ## Kontributor
 
 *   **teguh Maulana Firmansyah** - Pengembang & Perancang Sistem
+*   
 
 ---
 Dikembangkan untuk keperluan manajemen tugas pribadi dan kolaborasi akademik.
